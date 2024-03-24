@@ -1,5 +1,6 @@
 # scansrv
-TCP/IP server for downloading information into a bunch of Newland price checkers
+TCP/IP server for downloading information into a bunch of Newland price checkers.
+
 TCP/IP сервер для загрузки данных о товарах и ценах в несколько прайс-чекеров фирмы NewLand.
 2 формата загружаемых данных (ЭлФин и ScanPort). 
 Форматирование сообщения о названии товара под непропорциональный фонт, установленный в терминале, с выравниванием строк справа по метрикам фонта (это вообще никто никогда не делает, просто захотелось для эстетики)
